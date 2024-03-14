@@ -1,0 +1,9 @@
+.Cards{
+    padding-left: 2rem;
+    display: flex;
+    gap: 500px;
+}
+.parentContainer{
+    width: 100px;
+}
+

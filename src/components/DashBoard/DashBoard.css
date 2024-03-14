@@ -1,0 +1,10 @@
+.DashBoard{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+   
+}
+
+h3{
+    text-align: center;
+}
