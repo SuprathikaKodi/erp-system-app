@@ -154,7 +154,9 @@ you can see DashBoard page because it is set as index page.
 To navigate to various pages user have to type routes in browser serach bar 
  
 For DashBoard  http://localhost:3000/DashBoard
+
 For Products   http://localhost:3000/Products
+
 For Orders     http://localhost:3000/Orders
 
 OR
@@ -162,7 +164,9 @@ OR
 Can navigate through buttons below the page 
 
 For DashBoard  DashBoard button
+
 For Products   Products button
+
 For Orders     Orders button
  
 ## Folder Structure
@@ -203,8 +207,27 @@ In src folder
        
           
     
+##Logo
 
-![Logo](C:\Users\DELL\Music\erp-system-app1\src\imgs.png)
+This is the logo of this website
+
+![logo](https://github.com/SuprathikaKodi/erp-system-app/assets/93345887/f61fe7c3-4943-4897-9156-e9d03de4322d)
 
 
 ## Outputs
+
+IndexPage
+
+![IndexPage](https://github.com/SuprathikaKodi/erp-system-app/assets/93345887/03c6170c-a8d0-4ad1-aaac-b1d5603c6918)
+
+DashBoard
+
+![DashBoardPage](https://github.com/SuprathikaKodi/erp-system-app/assets/93345887/f798faaf-f913-4525-8076-6aab2e700025)
+
+Products Page
+
+![ProductsPage](https://github.com/SuprathikaKodi/erp-system-app/assets/93345887/92672995-ee33-4cbd-a622-91a174811b06)
+
+Orders Page
+
+![OrdersPage](https://github.com/SuprathikaKodi/erp-system-app/assets/93345887/c5af93f2-7927-475f-a430-d7cac100be78)
