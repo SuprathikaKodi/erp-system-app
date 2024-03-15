@@ -168,6 +168,10 @@ For DashBoard  DashBoard button
 For Products   Products button
 
 For Orders     Orders button
+
+OR
+
+Can navigate through Sidebar also 
  
 ## Folder Structure
 
