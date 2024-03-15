@@ -1,12 +1,15 @@
 export const SidebarData = [
     {
-        heading :"DashBoard",  
+        heading :"DashBoard",
+        link:"/DashBoard",
     },
     {
-        heading :"Products",   
+        heading :"Products", 
+        link: "/Products",
     },
     {
-        heading :"Orders", 
+        heading :"Orders",
+        link: "/Orders",
     },
 ];
 export const CardsData =[
